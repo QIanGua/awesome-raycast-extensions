@@ -22,6 +22,7 @@ A curated collection of powerful and productivity-boosting extensions for Raycas
     - [OpenAI Translator](#openai-translator)
     - [GitHub](#github)
     - [Things](#things)
+    - [PromptLab](#promptlab)
 ### [Arc](https://www.raycast.com/the-browser-company/arc)
 Search and quickly navigate your Arc browser's history and open tabs. You can open recent tabs in Arc or Little Arc as well as copy websites to quickly share them
 
@@ -67,3 +68,6 @@ Work with issues, pull requests, manage workflows, search repositories and stay 
 
 ### [Things](https://raycast.com/loris/things)
 Search and manage your Things to-dos from Raycast
+
+### [PromptLab](https://raycast.com/HelloImSteven/promptlab)
+PromptLab is a Raycast extension for creating and sharing powerful, contextually-aware AI commands using placeholders, action scripts, and more.
