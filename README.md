@@ -14,3 +14,4 @@ A curated collection of powerful and productivity-boosting extensions for Raycas
 Search and quickly navigate your Arc browser's history and open tabs. You can open recent tabs in Arc or Little Arc as well as copy websites to quickly share them.
 
 ### [Visual Studio Code](https://www.raycast.com/thomas/visual-studio-code)
+Control Visual Studio Code directly from Raycast - Search and open recent projects, handle extensions and commands.
