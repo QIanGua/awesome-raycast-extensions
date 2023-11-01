@@ -23,6 +23,7 @@ A curated collection of powerful and productivity-boosting extensions for Raycas
     - [GitHub](#github)
     - [Things](#things)
     - [PromptLab](#promptlab)
+    - [Warp](#warp)
 ### [Arc](https://www.raycast.com/the-browser-company/arc)
 Search and quickly navigate your Arc browser's history and open tabs. You can open recent tabs in Arc or Little Arc as well as copy websites to quickly share them
 
@@ -71,3 +72,6 @@ Search and manage your Things to-dos from Raycast
 
 ### [PromptLab](https://raycast.com/HelloImSteven/promptlab)
 PromptLab is a Raycast extension for creating and sharing powerful, contextually-aware AI commands using placeholders, action scripts, and more.
+
+### [Warp](https://raycast.com/warpdotdev/warp)
+Open Warp tabs/windows and launch configurations.
